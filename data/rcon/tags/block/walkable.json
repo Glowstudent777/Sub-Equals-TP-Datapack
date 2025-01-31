@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:short_grass",
+		"minecraft:tall_grass",
+		"minecraft:torch",
+		"#minecraft:buttons",
+		"#minecraft:saplings",
+		"#minecraft:rails",
+		"#minecraft:signs",
+		"#minecraft:wall_signs",
+		"#minecraft:pressure_plates"
+	]
+}

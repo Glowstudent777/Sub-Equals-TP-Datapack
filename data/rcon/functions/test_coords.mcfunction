@@ -1,1 +1,0 @@
-execute positioned 0 63 0 if block ~ ~-1 ~ #rcon:unsafe
