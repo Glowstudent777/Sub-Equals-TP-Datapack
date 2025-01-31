@@ -1,1 +1,0 @@
-tellraw @a {"text": "[SERVER] Rcon Datapack Loaded", "color": "#0000FF"}
